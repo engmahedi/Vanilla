@@ -1,0 +1,51 @@
+.nabvar{
+  background-color: rgb(87, 248, 194);
+}
+
+.menu{
+  margin-left: 200px;
+}
+
+#banner{
+  margin-top: 50px;
+}
+.banner-text{
+  margin-top: 100px;
+}
+
+.banner-text h5{
+  font-weight: 600;
+}
+.banner-text h2{
+  font-weight: 700;
+}
+
+.btn{
+  border-radius: 5px;
+}
+.contact{
+  margin-top: 50px;
+}
+
+.address{
+  margin-left: 50px;
+}
+.form{
+  margin-top: 50px;
+}
+
+footer{
+  padding: 30px;
+  background-color: black;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
